@@ -1,0 +1,590 @@
+
+
+então faça
+
+                             
+             else                          
+                            
+                               {
+                                for(de=0;de<=5;de++){
+                                printf ("\t\t%c-_%c_-%c_-%c",3,4,5,6);}    
+                                printf ("\n\n\t\t\tComo tenho Sorte!!! Você Perdeu!!\n\n");
+                                for(de=0;de<=5;de++){
+                                printf ("\t\t%c-_%c_-%c_-%c",3,4,5,6);}
+                                maq++;
+                                soma2=soma2+maq;                               
+                                printf ("\n\n\t\tPara Embaralhar as Cartas Novamente Tecle(2).\n\n\t\tPara ver placar Tecle(4)");
+                                n--;
+                                scanf  ("%d",&Q);
+                                
+                                }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if
+                               (A==0&&a==0&&c==0)//carta 2
+                                {
+                                                                                                                      
+                                for(de=0;de<=5;de++){
+                                printf ("\t\t%c-_%c_-%c_-%c",3,4,5,6);}
+                                printf ("\n\n\t\t\t%c%c%c%c-_-Conguration!!Voce ganhou!!!-_-%c%c%c%c\n\n",3,4,5,6,6,5,4,3);
+                                for (de=0;de<=5;de++){
+                                printf ("\t\t%c-_%c_-%c_-%c",3,4,5,6);}
+                                ho++;
+                                soma=soma+ho;
+                                printf ("\n\n\t\tPara continuar Tecle(2).\n\n\t\tPara placar tecle(4).");
+                                n--;
+                                scanf  ("%d",&Q);
+                                
+                              
+                             }
+                             else{
+                             printf ("\n\n\t\t%cTente novamente!Voce perdeu!!%c\n\n\t\t",-50,-50);
+                             }
+                              
+                                }
+                                else
+                                {
+                                for(de=0;de<=5;de++){
+                                printf ("\n\n\t\t%c-_%c_-%c_-%c\n\n",3,4,5,6);}    
+                                printf ("\n\n\t\t\t\tComo tenho Sorte!!! Você Perdeu!!\n\n");
+                                for(de=0;de<=5;de++){
+                                printf ("\n\n\t\t%c-_%c_-%c_-%c",3,4,5,6);}
+                                maq++;
+                                soma2=soma2+maq;                               
+                                printf ("\t\tPara Embaralhar as Cartas Novamente Tecle(2).\n\n\t\tPara ver placar Tecle(4)");
+                                n--;
+                                scanf  ("%d",&Q);
+
+
+
+
+
+
+
+
+
+
+
+
+   printf ("\t\tComo tenho Sorte!!! Você Perdeu!!\n\n");
+                                maq++;
+                                soma2=soma2+maq;                               
+                                printf ("\t\tPara Embaralhar as Cartas Novamente Tecle(2).\n\n\t\tPara ver placar Tecle(4)");
+                                scanf  ("%d",&Q);
+        
+
+
+
+                             
+probabilidade
+
+                                  ((A==13&&a==0)>(b==12||b==11||b==10||b==9||b==8||b==7||b==6||b==5||b==4||b==3||b==2||b==1||b==0))                             
+                                if((A==12||A==11||A==10||A==9||A==8||A==7||A==6||A==5||A==4||A==3||A==2||A==1||A==0&&a==0)>(b==11||b==10||b==9||b==8||b==7||b==6||b==5||b==4||b==3||b==2||b==1||b==0))
+                                if((A==12||A==11||A==10||A==9||A==8||A==7||A==6||A==5||A==4||A==3||A==2||A==1||A==0&&a==1)>(c==11||c==10||c==9||c==8||c==7||c==6||c==5||c==4||c==3||c==2||c==1||c==0))
+                                if((A==12||A==11||A==10||A==9||A==8||A==7||A==6||A==5||A==4||A==3||A==2||A==1||A==0&&a==2)>(d==11||d==10||d==9||d==8||d==7||d==6||d==5||d==4||d==3||d==2||d==1||d==0))
+                                if((A==12||A==11||A==10||A==9||A==8||A==7||A==6||A==5||A==4||A==3||A==2||A==1||A==0&&a==3)>(e==11||e==10||e==9||e==8||e==7||e==6||e==5||e==4||e==3||e==2||e==1||e==0))
+     voce ganhou
+
+
+
+
+probabilidade 
+
+
+ if                               
+                                  ((A==13&&a==0)>(b==12||b==11||b==10||b==9||b==8||b==7||b==6||b==5||b==4||b==3||b==2||b==1||b==0))                             
+                                if((A==12||A==11||A==10||A==9||A==8||A==7||A==6||A==5||A==4||A==3||A==2||A==1||A==0&&a==0)<(b==11||b==10||b==9||b==8||b==7||b==6||b==5||b==4||b==3||b==2||b==1||b==0))
+                                if((A==12||A==11||A==10||A==9||A==8||A==7||A==6||A==5||A==4||A==3||A==2||A==1||A==0&&a==1)<(c==11||c==10||c==9||c==8||c==7||c==6||c==5||c==4||c==3||c==2||c==1||c==0))
+                                if((A==12||A==11||A==10||A==9||A==8||A==7||A==6||A==5||A==4||A==3||A==2||A==1||A==0&&a==2)<(d==11||d==10||d==9||d==8||d==7||d==6||d==5||d==4||d==3||d==2||d==1||d==0))
+                                if((A==12||A==11||A==10||A==9||A==8||A==7||A==6||A==5||A==4||A==3||A==2||A==1||A==0&&a==3)<(e==11||e==10||e==9||e==8||e==7||e==6||e==5||e==4||e==3||e==2||e==1||e==0))
+                              
+
+voc eperdeu          
+
+
+
+
+
+ placar
+
+ if (x==4||Q==4){
+       
+                                  
+                             printf ("O Placar de:\n\n\t\t Maquina=%d\n\n\t\t--_%c-%c-_-- Vs--_%c-%c-_-- \n\n\t\tHomen=%d",soma2,6,4,5,3,soma);
+                             ho=0;
+                             maq=0;}
+                             if (soma>soma2){
+                             for(de=0;de<=5;de++){
+                             printf ("\t\t%c-_%c_-%c_-%c",3,4,5,6);}
+                             printf("\n\n\t\t%cParabens você ganhou!!%c\n\n\t\t",-50,-50);
+                             for(de=0;de<=5;de++){
+                             printf ("\t\t%c-_%c_-%c_-%c",3,4,5,6);}
+                             printf ("\n\n\t\tTecle(2) Para Voltar ao Menu.\n\n\t\t");
+                             scanf ("%d",&V);
+                             }
+                             else{
+                             printf ("\n\n\t\t%cTente novamente!Voce perdeu!!%c\n\n\t\t",-50,-50);
+
+
+
+
+
+
+
+
+
+Decisões
+                               if
+                               (A==13||a==0||a==1||a==2||a==3||b==0||b==1||b==2||b==3||b==4||b==5||b==6||b==7||b==8||b==9||b==10||b==11||b==12||c==0||c==1||c==2||c==3||c==4||c==5||c==6||c==7||c==8||c==9||c==10||c==11||c==12||d==0||d==1||d==2||d==3||d==4||d==5||d==6||d==7||d==8||d==9||d==10||d==11||d==12||e==0||e==1||e==2||e==3||e==4||e==5||e==6||e==7||e==8||e==9||e==10||e==11||e==12)//carta Coringa
+                                if
+                               (A==12&&a==0||b==1||b==2||b==3||b==4||b==5||b==6||b==7||b==8||b==9||b==10||b==11||b==12)//carta K
+                               
+                               if
+                               (A==12&&a==1||c==1||c==2||c==3||c==4||c==5||c==6||c==7||c==8||c==9||c==10||c==11||c==12)
+                               
+                               if
+                               (A==12&&a==2||d==1||d==2||d==3||d==4||d==5||d==6||d==7||d==8||d==9||d==10||d==11||d==12)
+                               
+                               if
+                               (A==12&&a==3||e==1||e==2||e==3||e==4||e==5||e==6||e==7||e==8||e==9||e==10||e==11||e==12)
+                                                                                                                      
+                               if                                                                                       
+                               (A==11&&a==0||b==1||b==2||b==3||b==4||b==5||b==6||b==7||b==8||b==9||b==11)//carta J
+                               
+                               if
+                               (A==11&&a==1||c==1||c==2||c==3||c==4||c==5||c==6||c==7||c==8||c==9||c==11)
+                               
+                               if
+                               (A==11&&a==2||d==1||d==2||d==3||d==4||d==5||d==6||d==7||d==8||d==9||d==11)
+                               
+                               if
+                               (A==11&&a==3||e==1||e==2||e==3||e==4||e==5||e==6||e==7||e==8||e==9||e==11)
+                                   
+                               if
+                               (A==10&&a==0||b==1||b==2||b==3||b==4||b==5||b==6||b==7||b==8||b==9||b==10||b==11) //carta Q
+                               
+                               if
+                               (A==10&&a==1||c==1||c==2||c==3||c==4||c==5||c==6||c==7||c==8||c==9||c==10||c==11)
+                               
+                               if
+                               (A==10&&a==2||d==1||d==2||d==3||d==4||d==5||d==6||d==7||d==8||d==9||d==10||d==11)
+                               
+                               if
+                               (A==10&&a==3||e==1||e==2||e==3||e==4||e==5||e==6||e==7||e==8||e==9||e==10||e==11)
+                                 
+                               if
+                               (A==9&&a==0||b==1||b==2||b==3||b==4||b==5||b==6||b==7||b==8||b==9)//carta 10
+                                
+                               if
+                               (A==9&&a==1||c==1||c==2||c==3||c==4||c==5||c==6||c==7||c==8||c==9)
+                                
+                               if
+                               (A==9&&a==2||d==1||d==2||d==3||d==4||d==5||d==6||d==7||d==8||d==9)
+                               
+                               if 
+                               (A==9&&a==3||e==1||e==2||e==3||e==4||e==5||e==6||e==7||e==8||e==9)
+                               
+                               if
+                               (A==8&&a==0||b==1||b==2||b==3||b==4||b==5||b==6||b==7||b==8)//carta 9
+                               
+                               if
+                               (A==8&&a==1||c==1||c==2||c==3||c==4||c==5||c==6||c==7||c==8)
+                               
+                               if
+                               (A==8&&a==2||d==1||d==2||d==3||d==4||d==5||d==6||d==7||d==8)
+                               
+                               if
+                               (A==8&&a==3||e==1||e==2||e==3||e==4||e==5||e==6||e==7||e==8)
+                               
+                               if
+                               (A==7&&a==0||b==1||b==2||b==3||b==4||b==5||b==6||b==7)// carta 8
+                               
+                               if
+                               (A==7&&a==1||c==1||c==2||c==3||c==4||c==5||c==6||c==7)
+                               
+                               if
+                               (A==7&&a==2||d==1||d==2||d==3||d==4||d==5||d==6||d==7)
+                               
+                               if 
+                               (A==7&&a==3||e==1||e==2||e==3||e==4||e==5||e==6||e==7)
+                               
+                               if
+                               (A==6&&a==0||b==1||b==2||b==3||b==4||b==5||b==6)//carta 7
+                               
+                               if
+                               (A==6&&a==1||c==1||c==2||c==3||c==4||c==5||c==6)
+                               
+                               if
+                               (A==6&&a==2||d==1||d==2||d==3||d==4||d==5||d==6)
+                               
+                               if
+                               (A==6&&a==3||e==1||e==2||e==3||e==4||e==5||e==6)
+                               
+                               if
+                               (A==5&&a==0||b==1||b==2||b==3||b==4||b==5)//carta 6
+                               
+                               if
+                               (A==5&&a==1||c==1||c==2||c==3||c==4||c==5)
+                               
+                               if
+                               (A==5&&a==2||d==1||d==2||d==3||d==4||d==5)
+                               
+                               if
+                               (A==5&&a==3||e==1||e==2||e==3||e==4||e==5)
+                               
+                               if
+                               (A==4&&a==0||b==1||b==2||b==3||b==4)//carta 5
+                               
+                               if
+                               (A==4&&a==1||c==1||c==2||c==3||c==4)
+                               
+                               if
+                               (A==4&&a==2||d==1||d==2||d==3||d==4)
+                               
+                               if
+                               (A==4&&a==3||e==1||e==2||e==3||e==4)
+                               
+                               if
+                               (A==3&&a==0||b==1||b==2||b==3)//carta 4
+                               
+                               if
+                               (A==3&&a==1||c==1||c==2||c==3)
+                               
+                               if
+                               (A==3&&a==2||d==1||d==2||d==3)
+                               
+                               if
+                               (A==3&&a==3||e==1||e==2||e==3)
+                               
+                               if
+                               (A==2&&a==0||b==1||b==2)//carta 3    
+			      
+                               if
+                               (A==2&&a==1||c==1||c==2)
+                               
+                               if
+                               (A==2&&a==2||d==1||d==2)
+                               
+                               if
+                               (A==2&&a==3||e==1||e==2)      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
+                               if
+                               (A==0&&a==0||b==1)
+                                {
+                                                                                                                      
+                                for(de=0;de<=5;de++){
+                                printf ("\t\t%c-_%c_-%c_-%c",3,4,5,6);}
+                                printf ("\n\n\t\t\t%c%c%c%c-_-Conguration!!Voce ganhou!!!-_-%c%c%c%c\n\n",3,4,5,6,6,5,4,3);
+                                for (de=0;de<=5;de++){
+                                printf ("\t\t%c-_%c_-%c_-%c",3,4,5,6);}
+                                ho++;
+                                soma=soma+ho;
+                                printf ("\n\n\t\tPara continuar Tecle(2).\n\n\t\tPara placar tecle(4).");
+                                n--;
+                                scanf  ("%d",&Q);break;
+                                }
+                               if
+                               (A==0&&a==0||b==2)
+                                {
+                                                                                                                      
+                                for(de=0;de<=5;de++){
+                                printf ("\t\t%c-_%c_-%c_-%c",3,4,5,6);}
+                                printf ("\n\n\t\t\t%c%c%c%c-_-Conguration!!Voce ganhou!!!-_-%c%c%c%c\n\n",3,4,5,6,6,5,4,3);
+                                for (de=0;de<=5;de++){
+                                printf ("\t\t%c-_%c_-%c_-%c",3,4,5,6);}
+                                ho++;
+                                soma=soma+ho;
+                                printf ("\n\n\t\tPara continuar Tecle(2).\n\n\t\tPara placar tecle(4).");
+                                n--;
+                                scanf  ("%d",&Q);break;
+                                }
+                               if
+                               (A==0&&a==0||b==3)
+                               {
+                                                                                                                      
+                                for(de=0;de<=5;de++){
+                                printf ("\t\t%c-_%c_-%c_-%c",3,4,5,6);}
+                                printf ("\n\n\t\t\t%c%c%c%c-_-Conguration!!Voce ganhou!!!-_-%c%c%c%c\n\n",3,4,5,6,6,5,4,3);
+                                for (de=0;de<=5;de++){
+                                printf ("\t\t%c-_%c_-%c_-%c",3,4,5,6);}
+                                ho++;
+                                soma=soma+ho;
+                                printf ("\n\n\t\tPara continuar Tecle(2).\n\n\t\tPara placar tecle(4).");
+                                n--;
+                                scanf  ("%d",&Q);break;
+                                }
+                               if
+                               (A==0&&a==0||b==4)
+                               {
+                                                                                                                      
+                                for(de=0;de<=5;de++){
+                                printf ("\t\t%c-_%c_-%c_-%c",3,4,5,6);}
+                                printf ("\n\n\t\t\t%c%c%c%c-_-Conguration!!Voce ganhou!!!-_-%c%c%c%c\n\n",3,4,5,6,6,5,4,3);
+                                for (de=0;de<=5;de++){
+                                printf ("\t\t%c-_%c_-%c_-%c",3,4,5,6);}
+                                ho++;
+                                soma=soma+ho;
+                                printf ("\n\n\t\tPara continuar Tecle(2).\n\n\t\tPara placar tecle(4).");
+                                n--;
+                                scanf  ("%d",&Q);break;
+                                }
+                                if
+                                (A==0&&a==0||b==5)
+                                {
+                                                                                                                      
+                                for(de=0;de<=5;de++){
+                                printf ("\t\t%c-_%c_-%c_-%c",3,4,5,6);}
+                                printf ("\n\n\t\t\t%c%c%c%c-_-Conguration!!Voce ganhou!!!-_-%c%c%c%c\n\n",3,4,5,6,6,5,4,3);
+                                for (de=0;de<=5;de++){
+                                printf ("\t\t%c-_%c_-%c_-%c",3,4,5,6);}
+                                ho++;
+                                soma=soma+ho;
+                                printf ("\n\n\t\tPara continuar Tecle(2).\n\n\t\tPara placar tecle(4).");
+                                n--;
+                                scanf  ("%d",&Q);break;
+                                }
+                                if
+                                (A==0&&a==0||b==6||b==7||b==8||b==9||b==10||b==11||b==12)//carta A
+                                 {
+                                                                                                                      
+                                for(de=0;de<=5;de++){
+                                printf ("\t\t%c-_%c_-%c_-%c",3,4,5,6);}
+                                printf ("\n\n\t\t\t%c%c%c%c-_-Conguration!!Voce ganhou!!!-_-%c%c%c%c\n\n",3,4,5,6,6,5,4,3);
+                                for (de=0;de<=5;de++){
+                                printf ("\t\t%c-_%c_-%c_-%c",3,4,5,6);}
+                                ho++;
+                                soma=soma+ho;
+                                printf ("\n\n\t\tPara continuar Tecle(2).\n\n\t\tPara placar tecle(4).");
+                                n--;
+                                scanf  ("%d",&Q);break;
+                                }
+                               if
+                               (A==0&&a==1||c==0||c==1||c==2||c==3||c==4||c==5||c==6||c==7||c==8||c==9||c==10||c==11||c==12)
+                                 {
+                                                                                                                      
+                                for(de=0;de<=5;de++){
+                                printf ("\t\t%c-_%c_-%c_-%c",3,4,5,6);}
+                                printf ("\n\n\t\t\t%c%c%c%c-_-Conguration!!Voce ganhou!!!-_-%c%c%c%c\n\n",3,4,5,6,6,5,4,3);
+                                for (de=0;de<=5;de++){
+                                printf ("\t\t%c-_%c_-%c_-%c",3,4,5,6);}
+                                ho++;
+                                soma=soma+ho;
+                                printf ("\n\n\t\tPara continuar Tecle(2).\n\n\t\tPara placar tecle(4).");
+                                n--;
+                                scanf  ("%d",&Q);break;
+                                }
+                               if
+                               (A==0&&a==2||d==0||d==1||d==2||d==3||d==4||d==5||d==6||d==7||d==8||d==9||d==10||d==11||d==12)
+                                 {
+                                                                                                                      
+                                for(de=0;de<=5;de++){
+                                printf ("\t\t%c-_%c_-%c_-%c",3,4,5,6);}
+                                printf ("\n\n\t\t\t%c%c%c%c-_-Conguration!!Voce ganhou!!!-_-%c%c%c%c\n\n",3,4,5,6,6,5,4,3);
+                                for (de=0;de<=5;de++){
+                                printf ("\t\t%c-_%c_-%c_-%c",3,4,5,6);}
+                                ho++;
+                                soma=soma+ho;
+                                printf ("\n\n\t\tPara continuar Tecle(2).\n\n\t\tPara placar tecle(4).");
+                                n--;
+                                scanf  ("%d",&Q);break;
+                                }
+                               if
+                               (A==0&&a==3||e==0||e==1||e==2||e==3||e==4||e==5||e==6||e==7||e==8||e==9||e==10||e==11||e==12)
+                              {
+                                                                                                                      
+                                for(de=0;de<=5;de++){
+                                printf ("\t\t%c-_%c_-%c_-%c",3,4,5,6);}
+                                printf ("\n\n\t\t\t%c%c%c%c-_-Conguration!!Voce ganhou!!!-_-%c%c%c%c\n\n",3,4,5,6,6,5,4,3);
+                                for (de=0;de<=5;de++){
+                                printf ("\t\t%c-_%c_-%c_-%c",3,4,5,6);}
+                                ho++;
+                                soma=soma+ho;
+                                printf ("\n\n\t\tPara continuar Tecle(2).\n\n\t\tPara placar tecle(4).");
+                                n--;
+                                scanf  ("%d",&Q);break;
+                                }
+                               if
+                               (A==2&&a==1||c==1||c==2)
+                                 {
+                                                                                                                      
+                                for(de=0;de<=5;de++){
+                                printf ("\t\t%c-_%c_-%c_-%c",3,4,5,6);}
+                                printf ("\n\n\t\t\t%c%c%c%c-_-Conguration!!Voce ganhou!!!-_-%c%c%c%c\n\n",3,4,5,6,6,5,4,3);
+                                for (de=0;de<=5;de++){
+                                printf ("\t\t%c-_%c_-%c_-%c",3,4,5,6);}
+                                ho++;
+                                soma=soma+ho;
+                                printf ("\n\n\t\tPara continuar Tecle(2).\n\n\t\tPara placar tecle(4).");
+                                n--;
+                                scanf  ("%d",&Q);break;
+                                }
+                               if
+                               (A==2&&a==2||d==1||d==2)
+                                 {
+                                                                                                                      
+                                for(de=0;de<=5;de++){
+                                printf ("\t\t%c-_%c_-%c_-%c",3,4,5,6);}
+                                printf ("\n\n\t\t\t%c%c%c%c-_-Conguration!!Voce ganhou!!!-_-%c%c%c%c\n\n",3,4,5,6,6,5,4,3);
+                                for (de=0;de<=5;de++){
+                                printf ("\t\t%c-_%c_-%c_-%c",3,4,5,6);}
+                                ho++;
+                                soma=soma+ho;
+                                printf ("\n\n\t\tPara continuar Tecle(2).\n\n\t\tPara placar tecle(4).");
+                                n--;
+                                scanf  ("%d",&Q);break;
+                                }
+                               if
+                               (A==2&&a==3||e==1||e==2)
+                                 {
+                                                                                                                      
+                                for(de=0;de<=5;de++){
+                                printf ("\t\t%c-_%c_-%c_-%c",3,4,5,6);}
+                                printf ("\n\n\t\t\t%c%c%c%c-_-Conguration!!Voce ganhou!!!-_-%c%c%c%c\n\n",3,4,5,6,6,5,4,3);
+                                for (de=0;de<=5;de++){
+                                printf ("\t\t%c-_%c_-%c_-%c",3,4,5,6);}
+                                ho++;
+                                soma=soma+ho;
+                                printf ("\n\n\t\tPara continuar Tecle(2).\n\n\t\tPara placar tecle(4).");
+                                n--;
+                                scanf  ("%d",&Q);break;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               {
+                                                                                                                      
+                                for(de=0;de<=5;de++){
+                                printf ("\t\t%c-_%c_-%c_-%c",3,4,5,6);}
+                                printf ("\n\n\t\t\t%c%c%c%c-_-Conguration!!Voce ganhou!!!-_-%c%c%c%c\n\n",3,4,5,6,6,5,4,3);
+                                for (de=0;de<=5;de++){
+                                printf ("\t\t%c-_%c_-%c_-%c",3,4,5,6);}
+                                ho++;
+                                soma=soma+ho;
+                                printf ("\n\n\t\tPara continuar Tecle(2).\n\n\t\tPara placar tecle(4).");
+                                n--;
+                                scanf  ("%d",&Q);break;
+                                }
+                               if
+                               (A==1&&a==1||c==1)
+                                 {
+                                                                                                                      
+                                for(de=0;de<=5;de++){
+                                printf ("\t\t%c-_%c_-%c_-%c",3,4,5,6);}
+                                printf ("\n\n\t\t\t%c%c%c%c-_-Conguration!!Voce ganhou!!!-_-%c%c%c%c\n\n",3,4,5,6,6,5,4,3);
+                                for (de=0;de<=5;de++){
+                                printf ("\t\t%c-_%c_-%c_-%c",3,4,5,6);}
+                                ho++;
+                                soma=soma+ho;
+                                printf ("\n\n\t\tPara continuar Tecle(2).\n\n\t\tPara placar tecle(4).");
+                                n--;
+                                scanf  ("%d",&Q);break;
+                                }
+                               if
+                               (A==1&&a==2||d==1)
+                                 {
+                                                                                                                      
+                                for(de=0;de<=5;de++){
+                                printf ("\t\t%c-_%c_-%c_-%c",3,4,5,6);}
+                                printf ("\n\n\t\t\t%c%c%c%c-_-Conguration!!Voce ganhou!!!-_-%c%c%c%c\n\n",3,4,5,6,6,5,4,3);
+                                for (de=0;de<=5;de++){
+                                printf ("\t\t%c-_%c_-%c_-%c",3,4,5,6);}
+                                ho++;
+                                soma=soma+ho;
+                                printf ("\n\n\t\tPara continuar Tecle(2).\n\n\t\tPara placar tecle(4).");
+                                n--;
+                                scanf  ("%d",&Q);break;
+                                }
+                               if
+                               (A==1&&a==3||e==1)
+                            
+                                }      
+
+
+
+
+
+
+
+ (AA>aa||AA>bb||AA>cc||AA>dd||AA>ee||AA>ff||AA>gg||AA>hh||AA>ii||AA>jj||AA>kk||AA>kk||AA>ll||AA>mm||AA>nn)
+                                {                                            

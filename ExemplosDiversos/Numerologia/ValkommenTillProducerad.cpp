@@ -1,0 +1,162 @@
+#include <stdio.h>
+#include <math.h>
+#include <conio.h>
+int main(){
+     unsigned mes,dia,nume,estado,calemensal;
+      char nome;
+       printf ("_-_-_@@-_-_-_-_-_-_-_-_-----VÄLKOMMEN TILL NUMEROLOGI-----_-_-_-_-_-_-_@@_-_-_\n");
+       printf ("             Ano de 2009------Producerad av Junior's ------Ano de 2009\n\n\n\a");
+       printf ("_-_-_-_-Primeiramente, Informe Em poucos Caracteres O Seu Apelido:-_-_--_-_-\n\n-_-_-_-_- Depois Press Enter-_-_-_-_\n\n");
+       scanf  ("%s",&nome);
+       printf ("\n-_-_--_-_-Press Enter-_-_--_-_-\n\n"); 
+       getch();
+       printf ("\n-_-_-_-_-Ola!!,%s"  ,&nome);  
+       printf ("\n-_-_--_-_-_-_--_-_-Tudo Bem com Voce?\n-_-__-_-_Para Confirmar, Tecle Um, para (Sim),ou Dois, Para (Não)._-_-_-_\n-_-_--_-_-Assim como se segue:-_-_--_-_-");
+       scanf ("%d",&estado);
+       switch (estado){
+          case 1: printf ("\n-_-_--_-_-Graças a Deus! Então Vamos dar continuação à nossa Busca Numerológica.-_-_--_-_-\n\a");break;       
+          case 2: printf ("\n-_-_--_-_-Que Pena! Espero que a nossa Busca Numerológica, possa Ajudá-lo (a)!-_-_--_-_-\n\a");break;
+          default : printf ("\n-_-_--_-_-Erro No Sistema De Banco de Dados Do Programa:\n-_-_--_-_-VÄLKOMMEN TILL NUMEROLOGIOk-_-_--_-_-\n-_-_--_-_-(Producerad av Junior's)-_-_--_-_-\n_-_--_-_-Possíveis Problemas:-_-_--_-_- Não foi digitado o número requirido,\n-_-_--_-_- ou o apelido ultrapassou o limite permitido-_-_--_-_-\n-_-_--_-_-Sugestões:-_-_--_-_-\n-_-_--_-_-É necessário Reiniciar o Programa,-_-_--_-_-\n-_-_--_-_-Caso queira Saber a Resposta, referente a pergunta.-_-_--_-_-\n-_-_--_-_- Caso não, o resultado final, não sofrerá nenhuma alteração(Junior's)-_-_--_-_-\n\n\a");break;
+      }
+       printf ("\n_-_-_-_-Antes de dar continuidade, Informe o dia de Hoje:_-_-_-_-\n");
+       scanf  ("%d",&calemensal);
+       printf ("\n_-_-_-_-Seguidamente Digite o Dia do seu Aniversario:-_-_--_-_-\n-_-_--_-_-Press Enter-_-_--_-_-\n\n");
+       scanf  ("%d",&dia);
+       printf ("_-_-_-_-O Dia Digitado foi->%d",dia);
+       printf ("\n\n-_-_-_OK!!!-_-_-\n\n-_-_--_-_-Press Enter-_-_-_-_-_-\n\n"); 
+       getch();
+       printf ("_-_-_-_-Informe agora, o Mes do seu Aniversario:-_-_-_-_--_-_-\n-_-_-_-_--_-_-Press Enter-_-_--_-_-\n\n");
+       scanf  ("%d",&mes); 
+       printf ("-_-_-_OK!!!-_-_-_-_-\n\n"); 
+       printf ("_-_-_-_-O Mes Digitado foi->%d,",mes);
+       printf ("\n-_-_--_-_-Press Enter-_-_--_-_-"); 
+       getch();
+       switch (mes){
+          case 1 : printf ("\n\n-_-_-Número Correspondente ao Mês de Janeiro.-_-_--_-_-\n\n");break;
+          case 2: printf ("\n\n-_-_-Número Correspondente ao Mês de Fevereiro.-_-_--_-_-\n\n");break;
+          case 3: printf ("\n\n-_-_-Número Correspondente ao Mês de Março.-_-_--_-_-\n\n");break;
+          case 4: printf ("\n\n-_-_-Número Correspondente ao Mês de Abril.-_-_--_-_-\n\n");break;
+          case 5: printf ("\n\n-_-_-Número Correspondente ao Mês de Maio.-_-_--_-_-\n\n");break;
+          case 6: printf ("\n\n-_-_-Número Correspondente ao Mês de Junho.-_-_--_-_-\n\n");break;
+          case 7: printf ("\n\n-_-_-Número Correspondente ao Mês de Julho.-_-_--_-_-\n\n");break;
+          case 8: printf ("\n\n-_-_-Número Correspondente ao Mês de Agosto.-_-_--_-_-\n\n");break;
+          case 9: printf ("\n\n-_-_-Número Correspondente ao Mês de Setembro.-_-_--_-_-\n\n");break;
+          case 10: printf("\n\n-_-_-Número Correspondente ao Mês de Outrubo.-_-_--_-_-\n\n");break;
+          case 11: printf("\n\n-_-_-Número Correspondente ao Mês de Novembro.-_-_--_-_-\n\n");break;
+          case 12: printf ("\n\n-_-_-Número Correspondente ao Mês de Dezembro.-_-_--_-_-\n\n");break;
+          default : printf ("\n\n O mês Informado, não possui correspondente no Banco de Dados do programa:\n_-_-_-_-_-_-_-_-_-_-_-_VÄLKOMMEN TILL NUMEROLOGI_-_-_-_-_-_-_-_-_-_-_-_\n_-_-_-_-_-_-_-_-_-_-_-_Sugestões:_-_-_-_-_-_-_-_-_-_-_-_\n_-__-_-_-_-_-_-_-_É Necessário Reiniciar o Programa,_-_-_-_-_-__-_-_-_\n_-_-_-_-_-_-_-_-_-_-_-_Para que se obtenha o objetivo desejado.(Junior's)._-_-_-_-_-_-_-_-__-_-\n\n\a");
+          getch();
+      }
+      int ani;
+       printf ("\n\n-_-_-_OK!!!-_-_-\n\n\n-_-_--_-_-Press Enter-_-_--_-_-\n\n"); 
+       getch();
+       printf ("\n-_-_-_ Tudo Ok!! -_-_-_\n\n-_-_-_Agora Tecle (1),-_-_-_\n\n-_-_-_ Caso já tenha feito Aniversário.-_-_-_\n\n-_-_-_ Ou Tecle (2),-_-_-_\n\n-_-_-_Caso ainda não tenha feito.-_-_-_\n\n");
+       scanf  ("%d",&ani);
+       printf ("\n\n-_-_-_OK!!!-_-_-\n\n\n-_-_--_-_-Press Enter-_-_--_-_-\n\n");
+       getch(); 
+       switch (ani) {
+       case 1 :  nume =(mes+dia+11);break;
+       case 2 :  nume =(mes+dia+10);break;
+      }
+       printf ("-_-_-_-Numerologia Referente:-_-_-_-%d",nume);
+       printf ("\n\n-_-_-_OK!!!-_-_-"); 
+       int repit;
+       printf ("\n\n\nRepita o Número Referente a Numerologia:-_-_--_-_-\n_-_-_-_-Press Enter_-_-_-_-\n\n\a");
+       scanf ("%d",&repit);
+       printf ("\n\n-_-_-_OK!!!-_-_-\n\n\n-_-_--_-_-Press Enter-_-_--_-_-\n\n"); 
+       getch();
+       printf ("-_-_-_-Através da Numerologia é possível saber a-_-_-_-\n -_-_-_-energia que rege o seu ""Dia Pessoal"".-_-_-_-\n-_-_-_-Ela está baseada no período atual de-_-_-_-\n-_-_-_- sua vida, ou seja, no seu ""Ano Numerológico.""-_-_--_-_- \n\n");
+       printf ("-_-_-_-Sendo Assim, o Número correspondente ao Seu-_-_-_- \n-_-_-_-"" Ano Numerológico ""-_-_-_-\n-_-_-_-, Se descreve seguidamente:-_-_--_-_-");
+       printf ("\n\n-_-_--_-_-Press Enter-_-_--_-_-\n");
+       getch();
+        switch (repit) {
+        case 19 : printf("\n\n-_-_-(*1*)-_-_-Quem quer paz, tem que dar paz.\n-_-_-_ Esta e uma receita basica que se aprende com a maturidade.\n-_-_-_Não adianta o discurso bonito se\n-_-_-_a pratica nao for de acordo. Procure ser muito claro.\n");break;
+        case 28 : printf("\n\n-_-_-(*1*)-_-_-Quem quer paz, tem que dar paz.\n-_-_-_ Esta e uma receita basica que se aprende com a maturidade.\n-_-_-_Não adianta o discurso bonito se\n-_-_-_a pratica nao for de acordo. Procure ser muito claro.\n");break;
+        case 37 : printf("\n\n-_-_-(*1*)-_-_-Quem quer paz, tem que dar paz.\n-_-_-_ Esta e uma receita basica que se aprende com a maturidade.\n-_-_-_Não adianta o discurso bonito se\n-_-_-_a pratica nao for de acordo. Procure ser muito claro.\n");break;
+        case 46 : printf("\n\n-_-_-(*1*)-_-_-Quem quer paz, tem que dar paz.\n-_-_-_ Esta e uma receita basica que se aprende com a maturidade.\n-_-_-_Não adianta o discurso bonito se\n-_-_-_a pratica nao for de acordo. Procure ser muito claro.\n");break;
+        case 20 : printf("\n\n-_-_-(*2*)-_-_-Tenha uma atitude que atraia pessoas de alto astral.\n-_-_-Se os problemas estao grandes e trazendo muito peso as suas costas,\n-_-_-se nao souber o que fazer procure ser mais simpatico(a).\n");break;
+        case 29 : printf("\n\n-_-_-(*2*)-_-_-Tenha uma atitude que atraia pessoas de alto astral.\n-_-_-Se os problemas estao grandes e trazendo muito peso as suas costas,\n-_-_-se nao souber o que fazer procure ser mais simpatico(a).\n");break;
+        case 38 : printf("\n\n-_-_-(*2*)-_-_-Tenha uma atitude que atraia pessoas de alto astral.\n-_-_-Se os problemas estao grandes e trazendo muito peso as suas costas,\n-_-_-se nao souber o que fazer procure ser mais simpatico(a).\n");break;
+        case 47 : printf("\n\n-_-_-(*2*)-_-_-Tenha uma atitude que atraia pessoas de alto astral.\n-_-_-Se os problemas estao grandes e trazendo muito peso as suas costas,\n-_-_-se nao souber o que fazer procure ser mais simpatico(a).\n");break;
+        case 21 : printf ("\n\n-_-_(*3*)-_-_-Acorde enquanto e tempo.As coisas estao\n-_-_-acontecendo bem debaixo do seu nariz e voce nao esta percebendo.\n-_-_-Ou voce nao quer saber ou esta muito ingenuo na situacao. Abra os olhos.\n");break;
+        case 12 : printf ("\n\n-_-_(*3*)-_-_-Acorde enquanto e tempo.As coisas estao\n-_-_-acontecendo bem debaixo do seu nariz e voce nao esta percebendo.\n-_-_-Ou voce nao quer saber ou esta muito ingenuo na situacao. Abra os olhos.\n");break;
+        case 30 : printf ("\n\n-_-_(*3*)-_-_-Acorde enquanto e tempo.As coisas estao\n-_-_-acontecendo bem debaixo do seu nariz e voce nao esta percebendo.\n-_-_-Ou voce nao quer saber ou esta muito ingenuo na situacao. Abra os olhos.\n");break;
+        case 39 : printf ("\n\n-_-_(*3*)-_-_-Acorde enquanto e tempo.As coisas estao\n-_-_-acontecendo bem debaixo do seu nariz e voce nao esta percebendo.\n-_-_-Ou voce nao quer saber ou esta muito ingenuo na situacao. Abra os olhos.\n");break;
+        case 48 : printf ("\n\n-_-_(*3*)-_-_-Acorde enquanto e tempo.As coisas estao\n-_-_-acontecendo bem debaixo do seu nariz e voce nao esta percebendo.\n-_-_-Ou voce nao quer saber ou esta muito ingenuo na situacao. Abra os olhos.\n");break;
+        case 13 : printf ("\n\n-_-_(*4*)_-_Procure fazer um bom uso do tempo,\n-_-_-_-_-_-_realizando aquilo que julga  ser importante. Não faça nada\n-_-_-_porque os outros estao querendo que você faça.\n-_-_-_Busque estar sempre harmonizado.\n");break;
+        case 22 : printf ("\n\n-_-_(*4*)_-_Procure fazer um bom uso do tempo,\n-_-_-_-_-_-_realizando aquilo que julga  ser importante. Não faça nada\n-_-_-_porque os outros estao querendo que você faça.\n-_-_-_Busque estar sempre harmonizado.\n");break;
+        case 31 : printf ("\n\n-_-_(*4*)_-_Procure fazer um bom uso do tempo,\n-_-_-_-_-_-_realizando aquilo que julga  ser importante. Não faça nada\n-_-_-_porque os outros estao querendo que você faça.\n-_-_-_Busque estar sempre harmonizado.\n");break;
+        case 40 : printf ("\n\n-_-_(*4*)_-_Procure fazer um bom uso do tempo,\n-_-_-_-_-_-_realizando aquilo que julga  ser importante. Não faça nada\n-_-_-_porque os outros estao querendo que você faça.\n-_-_-_Busque estar sempre harmonizado.\n");break;
+        case 49 : printf ("\n\n-_-_(*4*)_-_Procure fazer um bom uso do tempo,\n-_-_-_-_-_-_realizando aquilo que julga  ser importante. Não faça nada\n-_-_-_porque os outros estao querendo que você faça.\n-_-_-_Busque estar sempre harmonizado.\n");break;
+        case 14 : printf ("\n\n-_-_(*5*)_-_-As pessoas tem solicitado muito de voce ultimamente, e nem\n-_-_-_esta dando tempo de pensar em dizer ""não"". Nos ambientes de trabalho,\n-_-_-_procure nao fazer pelos os outros porque não esta certo.\n");break;
+        case 23 : printf ("\n\n-_-_(*5*)_-_-As pessoas tem solicitado muito de voce ultimamente, e nem\n-_-_-_esta dando tempo de pensar em dizer ""não"". Nos ambientes de trabalho,\n-_-_-_procure nao fazer pelos os outros porque não esta certo.\n");break;
+        case 32 : printf ("\n\n-_-_(*5*)_-_-As pessoas tem solicitado muito de voce ultimamente, e nem\n-_-_-_esta dando tempo de pensar em dizer ""não"". Nos ambientes de trabalho,\n-_-_-_procure nao fazer pelos os outros porque não esta certo.\n");break;
+        case 41 : printf ("\n\n-_-_(*5*)_-_-As pessoas tem solicitado muito de voce ultimamente, e nem\n-_-_-_esta dando tempo de pensar em dizer ""não"". Nos ambientes de trabalho,\n-_-_-_procure nao fazer pelos os outros porque não esta certo.\n");break;
+        case 50 : printf ("\n\n-_-_(*5*)_-_-As pessoas tem solicitado muito de voce ultimamente, e nem\n-_-_-_esta dando tempo de pensar em dizer ""não"". Nos ambientes de trabalho,\n-_-_-_procure nao fazer pelos os outros porque não esta certo.\n");break;
+        case 15 : printf ("\n\n-_-(*6*)_-_-Provavelmente todas as respostas que voce procura,envolvem\n-_-_-_um profundo processo de mudança.Nao tenha medo e mantenha-se tranquilo.\n-_-_-_Procure administrar a sua insegurança.\n");break;
+        case 24 : printf ("\n\n-_-(*6*)_-_-Provavelmente todas as respostas que voce procura,envolvem\n-_-_-_um profundo processo de mudança.Nao tenha medo e mantenha-se tranquilo.\n-_-_-_Procure administrar a sua insegurança.\n");break;
+        case 33 : printf ("\n\n-_-(*6*)_-_-Provavelmente todas as respostas que voce procura,envolvem\n-_-_-_um profundo processo de mudança.Nao tenha medo e mantenha-se tranquilo.\n-_-_-_Procure administrar a sua insegurança.\n");break;
+        case 42 : printf ("\n\n-_-(*6*)_-_-Provavelmente todas as respostas que voce procura,envolvem\n-_-_-_um profundo processo de mudança.Nao tenha medo e mantenha-se tranquilo.\n-_-_-_Procure administrar a sua insegurança.\n");break;
+        case 51 : printf ("\n\n-_-(*6*)_-_-Provavelmente todas as respostas que voce procura,envolvem\n-_-_-_um profundo processo de mudança.Nao tenha medo e mantenha-se tranquilo.\n-_-_-_Procure administrar a sua insegurança.\n");break;
+        case 16 : printf ("\n\n-_-(*7*)_-_-Esta tudo certo quando você procura agir,\n-_-_-_sempre cumprindo com seus deveres e responsabilidades.Procure\n-_-_-_ fazer coisas que gosta para ""recarregar"" suas energias e seuir em frente.\n");break;
+        case 25 : printf ("\n\n-_-(*7*)_-_-Esta tudo certo quando você procura agir,\n-_-_-_sempre cumprindo com seus deveres e responsabilidades.Procure\n-_-_-_ fazer coisas que gosta para ""recarregar"" suas energias e seuir em frente.\n");break;
+        case 34 : printf ("\n\n-_-(*7*)_-_-Esta tudo certo quando você procura agir,\n-_-_-_sempre cumprindo com seus deveres e responsabilidades.Procure\n-_-_-_ fazer coisas que gosta para ""recarregar"" suas energias e seuir em frente.\n");break;
+        case 43 : printf ("\n\n-_-(*7*)_-_-Esta tudo certo quando você procura agir,\n-_-_-_sempre cumprindo com seus deveres e responsabilidades.Procure\n-_-_-_ fazer coisas que gosta para ""recarregar"" suas energias e seuir em frente.\n");break;
+        case 52 : printf ("\n\n-_-(*7*)_-_-Esta tudo certo quando você procura agir,\n-_-_-_sempre cumprindo com seus deveres e responsabilidades.Procure\n-_-_-_ fazer coisas que gosta para ""recarregar"" suas energias e seuir em frente.\n");break;
+        case 17 : printf ("\n\n-_-(*8*)_-_-Voce pode ficar estressado neste periodo,portanto\n-_-_-procure relaxar e ser mais flexivel. Talvez uma boa forma de lidar com o\n-_-_-excesso de trabalho, seja atender seu proprio jeito de ser.\n");break;
+        case 26 : printf ("\n\n-_-(*8*)_-_-Voce pode ficar estressado neste periodo,portanto\n-_-_-procure relaxar e ser mais flexivel. Talvez uma boa forma de lidar com o\n-_-_-excesso de trabalho, seja atender seu proprio jeito de ser.\n");break;
+        case 35 : printf ("\n\n-_-(*8*)_-_-Voce pode ficar estressado neste periodo,portanto\n-_-_-procure relaxar e ser mais flexivel. Talvez uma boa forma de lidar com o\n-_-_-excesso de trabalho, seja atender seu proprio jeito de ser.\n");break;
+        case 44 : printf ("\n\n-_-(*8*)_-_-Voce pode ficar estressado neste periodo,portanto\n-_-_-procure relaxar e ser mais flexivel. Talvez uma boa forma de lidar com o\n-_-_-excesso de trabalho, seja atender seu proprio jeito de ser.\n");break;
+        case 53 : printf ("\n\n-_-(*8*)_-_-Voce pode ficar estressado neste periodo,portanto\n-_-_-procure relaxar e ser mais flexivel. Talvez uma boa forma de lidar com o\n-_-_-excesso de trabalho, seja atender seu proprio jeito de ser.\n");getch();break;
+        case 18 : printf ("\n\n-_-(*9*)_-_-Nao deixe de se fazer uma pergunta: O que eu posso fazer\n-_-_- para mudar conceitos antigos, que não me deixam ""crescer""?\n-_-_-Desligue e procure aprender em outras areas de sua vida.\n");break;
+        case 27 : printf ("\n\n-_-(*9*)_-_-Nao deixe de se fazer uma pergunta: O que eu posso fazer\n-_-_- para mudar conceitos antigos, que não me deixam ""crescer""?\n-_-_-Desligue e procure aprender em outras areas de sua vida.\n");break;
+        case 36 : printf ("\n\n-_-(*9*)_-_-Nao deixe de se fazer uma pergunta: O que eu posso fazer\n-_-_- para mudar conceitos antigos, que não me deixam ""crescer""?\n-_-_-Desligue e procure aprender em outras areas de sua vida.\n");break;
+        case 45 : printf ("\n\n-_-(*9*)_-_-Nao deixe de se fazer uma pergunta: O que eu posso fazer\n-_-_- para mudar conceitos antigos, que não me deixam ""crescer""?\n-_-_-Desligue e procure aprender em outras areas de sua vida.\n");break;
+        case 54 : printf ("\n\n-_-(*9*)_-_-Nao deixe de se fazer uma pergunta: O que eu posso fazer\n-_-_- para mudar conceitos antigos, que não me deixam ""crescer""?\n-_-_-Desligue e procure aprender em outras areas de sua vida.\n");break;
+        default : printf("Erro_-_-\n_-_- A Junção Numérica, não possui nenhum número correspondente_-_-_-_-_-_-_-\n __-_-_-_-_-_-_-no Banco de Dados do programa_-__-_-_-_-_-_-\n_-_-_-_-_-_-_- VÄLKOMMEN TILL NUMEROLOGI_-_- _-_-_-_-_-\n_-_- _-_-_-_-_-(Producerad av Junior's)_-_- _-_-_-_-_-\n_-_- _-_-_-_-_-Reinicie o Programa_-_- _-_-_-_-_-\n\n\a.");
+    }
+      printf ("\n_-_-_-_-A Frase do Dia, Do Calendário Mensal, se descreve logo à baixo_-_-_-_-\n");
+      switch (calemensal) {
+        case 1: printf ("\n_-_-_-_-(Dia *01*)Comece o dia Sorrindo! Essa atitude positiva terá_-_-_-_-\n_-_-_-_- o poder de ultrapassar os pequenos obstáculos diários!_-_-_-_-\n");break;
+        case 2: printf ("\n_-_-_-_-(Dia *02*)A prosperidade existe quando mnantemos a _-_-_-_-\n_-_-_-_-harmonia ente nossos sentimentos e atitudes._-_-_-_-\n");break;
+        case 3: printf ("\n_-_-_-_-(Dia *03*)A esperança é a melhor companhia, pois quem tem_-_-_-_-\n_-_-_-_-esperança, tem a prospreidade ao seu lado._-_-_-_-\n");break;
+        case 4: printf ("\n_-_-_-_-(Dia *04*)Enfrente os desafios de maneira clara e objetiva,_-_-_-_-\n_-_-_-_- pois o sucesso não conhece barreiras!_-_-_-_-\n");break;
+        case 5: printf ("\n_-_-_-_-(Dia *05*)A felicidade deve ser uma conquista diária,_-_-_-_-\n_-_-_-_-e não um objetivo a longo prazo!_-_-_-_-\n");break;
+        case 6: printf ("\n_-_-_-_-(Dia *06*)Somos responsáveis pelas coisas qu fazemos, e _-_-_-_-\n_-_-_-_-também por aquilo que deixamos de fazer._-_-_-_-\n");break;
+        case 7: printf ("\n_-_-_-_-(Dia *07*)Ao vencer obstáculos você está caminhando_-_-_-_-\n_-_-_-_-em direção à prosperidae._-_-_-_-\n");break;
+        case 8: printf ("\n_-_-_-_-(Dia *08*)A capacidade de realizar o "" agora "" é mais forte que a_-_-_-_-\n_-_-_-_-lembrança daquilo que ficou por realizar no "" passado ""._-_-_-_-\n");break;
+        case 9: printf ("\n_-_-_-_-(Dia *09*)Sempre que precisar de um estímulo, olhe para_-_-_-_-\n_-_-_-_-trás e veja todas as suas conquistas._-_-_-_-\n");break;
+       case 10: printf ("\n_-_-_-_-(Dia *10*)A harmonia entre nossos sentimentos e atitudes_-_-_-_-\n_-_-_-_-nos mostra o caminho da prosperidade._-_-_-_-\n");break;
+       case 11: printf ("\n_-_-_-_-(Dia *11*)A verdadeira riqueza consiste no amor_-_-_-_-\n_-_-_-_-e na sabedoria de beneficiar o próximo._-_-_-_-\n");break;
+       case 12: printf ("\n_-_-_-_-(Dia *12*)Sonhos são apenas realidades_-_-_-_-\n_-_-_-_-ainda não concretizdas!_-_-_-_-\n");break;
+       case 13: printf ("\n_-_-_-_-(Dia *13*)A felicidade depende apenas de nossa conduta. Deixe a sabedoria_-_-_-_-\n_-_-_-_-guiar seus passos e tenha um vida feliz!_-_-_-_-\n");break;
+       case 14: printf ("\n_-_-_-_-(Dia *14*)Sempre agradeça a todas_-_-_-_-\n_-_-_-_-as coisas, pois tudo é aprendizado!_-_-_-_-\n");break;
+       case 15: printf ("\n_-_-_-_-(Dia *15*)Perdoar os erros dos outros é a melhor lição_-_-_-_-\n_-_-_-_-de integridade que podemos ter!_-_-_-_-\n");break;
+       case 16: printf ("\n_-_-_-_-(Dia *16*)A riqueza das pessoas deve ser_-_-_-_-\n_-_-_-_-avaliada pela qualidade dos seus atos. !_-_-_-_-\n");break;
+       case 17: printf ("\n_-_-_-_-(Dia *17*)Ter sonhos é saber que nossa,_-_-_-_-\n_-_-_-_-capacidade de realização não conhece limites._-_-_-_-\n");break;
+       case 18: printf ("\n_-_-_-_-(Dia *18*)A paz está dentro de nós_-_-_-_-\n_-_-_-_-não à nossa volta._-_-_-_-\n");break;
+       case 19: printf ("\n_-_-_-_-(Dia *19*)O tempo pode ser lento demais para quem espera,_-_-_-_-\n_-_-_-_-mas para quem ama ele é eterno._-_-_-_-\n");break;
+       case 20: printf ("\n_-_-_-_-(Dia *20*)Bom humor é contagiante! Espalhe a alegria,_-_-_-_-\n_-_-_-_-e ela retornará em dobro para você!_-_-_-_-\n");break;
+       case 21: printf ("\n_-_-_-_-(Dia *21*)Nossos atos presentes serão as marcas do nosso futuro,_-_-_-_-\n_-_-_-_-portanto depende apenas de nós o caminho que vamos seguir._-_-_-_-\n");break;
+       case 22: printf ("\n_-_-_-_-(Dia *22*)Seja feliz consigo mesmo, e todos_-_-_-_-\n_-_-_-_-a sua volta estarão felizes!_-_-_-_-\n");break;
+       case 23: printf ("\n_-_-_-_-(Dia *23*)Ocupe seu tempo de maneira positiva:_-_-_-_-\n_-_-_-_-crescendo e desenvolvendo suas habilidades!_-_-_-_-\n");break;
+       case 24: printf ("\n_-_-_-_-(Dia *24*)Separe dez minutos diários para si  mesmo!_-_-_-_-\n_-_-_-_-Aproveite esse momenteo para elogiar suas conquistas!_-_-_-_-\n");break;
+       case 25: printf ("\n_-_-_-_-(Dia *25*)Ter resignação é saber que tudo tem_-_-_-_-\n_-_-_-_-o seu tempo certo para acontecer!_-_-_-_-\n");break;
+       case 26: printf ("\n_-_-_-_-(Dia *26*)Nosso bem estar somente estará completo ,_-_-_-_-\n_-_-_-_-quando promovermos o bem estar dos outros._-_-_-_-\n");break;
+       case 27: printf ("\n_-_-_-_-(Dia *27*)Acredite na força que existe dentro_-_-_-_-\n_-_-_-_-de você e o caminho certo apareceá._-_-_-_-\n");break;
+       case 28: printf ("\n_-_-_-_-(Dia *28*)Olhe sempre em frente! Os tropeços significam que _-_-_-_-\n_-_-_-_-você caminha e tem a capacidade de se reerguer!_-_-_-_-\n");break;
+       case 29: printf ("\n_-_-_-_-(Dia *29*)A força de vontade é o melhor _-_-_-_-\n_-_-_-_-para realizarmos os nossos sonhos._-_-_-_-\n");break;
+       case 30: printf ("\n_-_-_-_-(Dia *30*)Nossa paz interior está diretamente ligada à prática da caridade e na _-_-_-_-\n_-_-_-_-capacidade de entendermos o mundo exterior que nos rodeia._-_-_-_-\n");break;      
+       case 31: printf ("\n_-_-_-_-(Dia *31*)O segredo da verdadeira amizade _-_-_-_-\n_-_-_-_-está no respeito mútuo das diferenças!_-_-_-_-\n");break;
+      default : printf  ("\n_-_-_-_-O mês digitado não se encontra no banco de dados do programa (VÄLKOMMEN TILL NUMEROLOGI)_-_-_-_-\n_-_-_-_-Reinicie o programa com o dia atual correto!_-_-_-_-\n");break;
+    }
+      printf ("\n-_-_--_-_-Press Enter-_-_--_-_-\n");
+      getch();
+      printf ("\n-_-_--_-_-Espero Graciosamente,Que você,-_-_--_-_-%s",&nome );
+      printf ("\n-_-_--_-_-Tenha Gostado, Especialmente do Programa,-_-_--_-_-\n_-_-_-_E que fique a vontade para usá-lo, Quando julgar necessário.-_-_--_-_-\n\a");
+      printf ("\n-_-_--_-_-Press Enter\n"); 
+      getch();
+      printf ("\n_-_-_-_-_-_--_-_-_-_-_-_-_-Mitt tack _-_-_-_-_-_-_-_-_-_-\n_-_-_-_-_-_-_-_-__-_-_-Kontroll för Junior's_-_-_-_-_-_-_-_-_-_-\n_-_-_-_-_-_-_-_-_-_-O Regougar de Um Pensamento._-_-_-_-_-_-_-_-_-_-");
+      printf ("\n\n\n_-_-_-_-_-_-_-_-_--_-_-_-Para Finalizar_-_-_--_-_-_-_-_-_-_-\n_-_-_-_-_-_-_-_-_-_-_-Pressione Qualquer Tecla_-_-_-_-_-_--_-_-_-\n_-_-_-_-_-_--_-_-_-_-_-_-_-_-_-OK_-_-_-_-_-_--_-_-_-_-_-_-_-\n\a");
+               getch();    
+}
